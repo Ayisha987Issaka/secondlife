@@ -1,0 +1,6 @@
+{
+  "name": "SecondLife AI",
+  "description": "AI-powered reuse, repair, resale, donation and recycling guidance for everyday objects in Ghana.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
